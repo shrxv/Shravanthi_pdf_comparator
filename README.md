@@ -76,12 +76,6 @@ Feel free to fork this repository, make enhancements, and submit pull requests. 
 
 ---
 
-## License
-
-[Specify the license type, e.g., MIT, Apache 2.0, etc.]
-
----
-
 ## Notes
 
 - If you encounter any issues, please open an issue in the repository.
@@ -94,6 +88,4 @@ For any queries or assistance, feel free to reach out via GitHub Issues or email
 
 ---
 
-### Add Images
-You can make this README even more engaging by adding relevant images or screenshots. Let me know where you'd like them, and I can guide you further!
 
