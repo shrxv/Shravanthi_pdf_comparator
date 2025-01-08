@@ -67,6 +67,12 @@ Ensure you have the following installed on your system:
 ## Screenshots
 
 [Add screenshots of the application interface, comparison results, or any other key functionality.]
+<img width="1781" alt="Screenshot 2025-01-08 at 4 26 41 PM" src="https://github.com/user-attachments/assets/d17c272b-9dba-458f-bfac-4fabf387ee08" />
+
+
+<img width="1781" alt="Screenshot 2025-01-08 at 4 27 31 PM" src="https://github.com/user-attachments/assets/fe686520-5ac8-48ce-bbeb-c98a1a083a2a" />
+
+<img width="1781" alt="Screenshot 2025-01-08 at 4 27 48 PM" src="https://github.com/user-attachments/assets/323a1a53-7b9f-4f71-9bb7-b418d5781846" />
 
 ---
 
