@@ -18,7 +18,7 @@ Follow these steps to set up and run the project on your local machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-link>
+git clone [<repository-link>](https://github.com/shrxv/Shravanthi_pdf_comparator.git)
 ```
 
 ### 2. Navigate to the Project Directory
