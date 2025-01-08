@@ -1,4 +1,4 @@
-#PDF Comparator
+# PDF Comparator
 
 Shravanthi PDF Comparator is a tool to compare PDF files for differences in content. This project combines the power of Python and JavaScript to deliver a smooth and efficient comparison experience.
 
